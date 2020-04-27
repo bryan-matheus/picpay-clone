@@ -1,21 +1,30 @@
-# 💵 PicPay Clone
+## PicPay Clone
+Este é o repositório com o código fonte desenvolvido durante as aulas disponíveis no [YouTube](https://www.youtube.com/channel/UCNckxUYl117w3hfgoj3DbWg) no canal do [Matheus Silva](https://github.com/maateusilva) onde criamos um clone do aplicativo PicPay utilizando React Native, Styled Components e React Navigation 5.
 
-## 🎯 Objetivo
+Este projeto utiliza o [Expo](https://expo.io/learn).
 
-Este projeto foi criado com a finalidade de estudo do desenvolvimento de interfaces e tenta fazer uma releitura do aplicativo PicPay.
+## Instalação
+Você precisará ter apenas o [NodeJS](https://nodejs.org/en/) instalado na sua máquina, e após isso, clonar este repositório:
 
-## 🤓 Iniciando
+`` 
+  $ git clone https://github.com/BryanMatheus/picpay-clone 
+ ``
 
-### 1. Baixando o projeto
+Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
 
-  - Você pode baixar o arquivo ZIP clicando no botão verde acima 
-  - Você também pode em sua linha de comando, com o [Git](https://git-scm.com) instalado digitar:<br>
-    `git clone https://github.com/BryanMatheus/picpay-clone`
+`` 
+  $ yarn install # ou npm install 
+  
+``
 
-### 2. Instalando as dependências <br>
-  Ao baixar o projeto por alguns dos métodos acima, precisamos abrir nosso prompt de comando novamente na pasta do projeto e:
-  - Através do *NPM* rodar o comando `npm`;
-  - Através do *Yarn* o comando `yarn`.
+## Executando a aplicação
+Execute o comando a baixo para inicializar o Expo:
+
+`` 
+  $ yarn start # ou npm start 
+``
+
+Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu celular (disponível na App Store e na Google Play).
 
 
 **Pronto. Agora é só fazer um bom café e codar! ❤️**
