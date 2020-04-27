@@ -35,6 +35,7 @@ export default function Navigation() {
   return (
     // route => faz um map nas propriedades
     <Tab.Navigator
+      initialRouteName="Wallet"
       screenOptions={({ route, navigation }) => ({
         tabBarIcon: ({ color, size, focused }) => {
           if (route.name === "Pay") {
