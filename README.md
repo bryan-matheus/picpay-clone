@@ -6,23 +6,16 @@ Este projeto utiliza o [Expo](https://expo.io/learn).
 ## Instalação
 Você precisará ter apenas o [NodeJS](https://nodejs.org/en/) instalado na sua máquina, e após isso, clonar este repositório:
 
-`` 
-  $ git clone https://github.com/BryanMatheus/picpay-clone 
- ``
+`` $ git clone https://github.com/BryanMatheus/picpay-clone ``
 
 Depois disso acesse a pasta da aula que você deseja e instale as dependências executando o seguinte comando:
 
-`` 
-  $ yarn install # ou npm install 
-  
-``
+`` $ yarn install # ou npm install   ``
 
 ## Executando a aplicação
 Execute o comando a baixo para inicializar o Expo:
 
-`` 
-  $ yarn start # ou npm start 
-``
+`` $ yarn start # ou npm start ``
 
 Agora basta abrir o emulador pelo seu computador, ou o aplicativo do Expo no seu celular (disponível na App Store e na Google Play).
 
