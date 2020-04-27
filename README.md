@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Criado com a finalidade de estudo do desenvolvimento de interfaces
+Este projeto foi criado com a finalidade de estudo do desenvolvimento de interfaces e tenta fazer uma releitura do aplicativo PicPay.
 
 ## 🤓 Iniciando
 
@@ -21,4 +21,4 @@ Criado com a finalidade de estudo do desenvolvimento de interfaces
 **Pronto. Agora é só fazer um bom café e codar! ❤️**
 
 
-_Obs.: Reforço novamente que este projeto foi desenvolvido para estudo, possuindo apenas as telas de inicio e carteira._
+_Obs.: Reforço novamente que esse projeto foi desenvolvido para estudo, possuindo apenas as telas de inicio e carteira._
