@@ -3,6 +3,8 @@ Este é o repositório com o código fonte desenvolvido durante as aulas dispon�
 
 Este projeto utiliza o [Expo](https://expo.io/learn).
 
+![App](picpay-clone.png "PicPay Clone")
+
 ## Instalação
 Você precisará ter apenas o [NodeJS](https://nodejs.org/en/) instalado na sua máquina, e após isso, clonar este repositório:
 
